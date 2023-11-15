@@ -142,6 +142,7 @@ figcaption {
 }
 
 /* Link Styling */
+
 a {
 
     text-decoration: none;
@@ -228,4 +229,5 @@ nav a:active {
 footer {
 
     text-align: center;
+    
 }
