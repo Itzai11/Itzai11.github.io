@@ -181,6 +181,8 @@ ol {
 
 .long-list a:hover {
 
+    text-transform: uppercase;
+
 }
 
 
@@ -190,6 +192,7 @@ nav {
 
     padding-left: 0;
     margin-top: .25rem;
+
 }
 
 nav a {
@@ -224,5 +227,5 @@ nav a:active {
 
 footer {
 
- 
+    text-align: center;
 }
