@@ -63,6 +63,7 @@
 nav {
     nav {
         float: left;
+        width: auto;
         color: #252752;
         text-align: center;
         border: transparent;
