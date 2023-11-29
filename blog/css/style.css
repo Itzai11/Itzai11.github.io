@@ -61,13 +61,23 @@
 
 /* Navigation */
 nav {
-    nav {
-        float: left;
-        width: auto;
-        color: #252752;
-        text-align: center;
-        border: transparent;
-    }
+    padding-left: 0;
+
+}
+
+nav a {
+
+    width: 100%;
+    text-align: center;
+
+}
+
+nav a:focus,
+nav a:hover {
+
+    color: #234378;
+    background-color: transparent;
+
 }
 
 /* Main Section */
