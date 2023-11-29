@@ -47,6 +47,7 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+
 /* Typography Styles */
 
 @font-face {
@@ -57,3 +58,23 @@
     font-family:Lato;
     src: url(../fonts/sans-serif/lato-regular.ttf);
 }
+
+/* Navigation */
+nav {
+    nav {
+        float: left;
+        color: #252752;
+        text-align: center;
+        border: transparent;
+    }
+}
+
+/* Main Section */
+
+/* Article-Image */
+
+/* Subsection */
+
+/* SideSection */
+
+/* Footer */
