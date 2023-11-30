@@ -59,6 +59,16 @@
     src: url(../fonts/sans-serif/lato-regular.ttf);
 }
 
+h1 {
+    text-align: center;
+    text-shadow: .09375rem .09375rem .09375rem #000;
+}
+
+h1 span {
+    color: #aba1a1;
+    background-color: #692e2e;
+}
+
 /* Navigation */
 
 /* Section */
