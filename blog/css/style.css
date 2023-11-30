@@ -61,31 +61,65 @@
 
 /* Navigation */
 nav {
-    padding-left: 0;
-
+        float: left;
+        margin-top: auto;
 }
 
 nav a {
+    display: inline-block;
 
-    width: 100%;
-    text-align: center;
-
-}
-
-nav a:focus,
-nav a:hover {
-
-    color: #234378;
-    background-color: transparent;
 
 }
+/* Section */
 
-/* Main Section */
+main section {
+    display: flex;
+}
 
-/* Article-Image */
+article {
+    width: 75%;
+}
+
+article image {
+    float: left;
+    margin: 0 1rem 0 0;
+
+}
 
 /* Subsection */
 
-/* SideSection */
+subsection {
+
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    display: grid;
+}
+
+/* Sidebar */
+
+aside {
+    clear: both;
+    width: 19%;
+    margin-left: 3%;
+    padding-left: 3%;
+    border-left: .0625rem solid #333;
+    grid-template-columns:repeat auto;
+}
+
+aside p {
+    font-size: 75rem;
+}
 
 /* Footer */
+
+footer {
+    margin: 6 rem auto .5rem auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns:repeat auto;
+}
+
+footer a{
+    
+}
