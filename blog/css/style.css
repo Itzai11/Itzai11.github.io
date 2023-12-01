@@ -133,9 +133,5 @@ footer {
     width: 90%;
     display: grid;
     grid-template-columns: repeat(auto);
-}
-
-footer a {
     text-align: right;
-
 }
