@@ -73,6 +73,10 @@ h1 span {
     background-color: #692e2e;
     font-weight: bold;
     text-transform: uppercase;
+    padding:.25rem .35rem .25rem;
+    border-top-left-radius: .45rem;
+    border-bottom-right-radius: .45rem;
+    box-shadow: .05rem .05rem .05rem #000;
 }
 
 /* Navigation */
