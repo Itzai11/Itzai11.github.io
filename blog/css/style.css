@@ -117,10 +117,11 @@ button {
 
 }
 
-button a{
+button a {
     color: #d7d7db;
     text-decoration: none;
     text-transform: uppercase;
+    font-family:Lato;
 }
 
 /* Subsection */
