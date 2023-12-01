@@ -60,7 +60,7 @@
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 2rem;
     text-align: center;
     color: #000;
     text-shadow: .09375rem .09375rem .09375rem #000;
@@ -69,19 +69,14 @@ h1 {
 
 h1 span {
     color: #f5edeb;
-    font-size: 4rem;
+    font-size: 2rem;
     background-color: #692e2e;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 /* Navigation */
-
-/* Section */
-
-/* Subsection */
-
-/* Sidebar */
-
-
-/* Footer */
+nav {
+        float: left;
+        color: #252752;
+}
