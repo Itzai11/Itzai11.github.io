@@ -110,18 +110,19 @@ article image {
 }
 
 button {
-    background-color:#3474eb;
+    background-color: #252752;
     border: none;
     border-radius:2px;
     box-shadow: .05rem .05rem .05rem #000;
-
+    padding: 1rem;
 }
 
 button a {
     color: #d7d7db;
-    text-decoration: none;
-    text-transform: uppercase;
+    text-decoration:none;
+    text-transform:uppercase;
     font-family:Lato;
+    font-size: 2rem;
 }
 
 /* Subsection */
