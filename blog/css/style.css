@@ -110,8 +110,17 @@ article image {
 }
 
 button {
-    background-color:#3474eb ;
+    background-color:#3474eb;
+    border: none;
+    border-radius:2px;
+    box-shadow: .05rem .05rem .05rem #000;
+
+}
+
+button a{
     color: #d7d7db;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 /* Subsection */
@@ -133,5 +142,4 @@ footer {
     width: 90%;
     display: grid;
     grid-template-columns: repeat(auto);
-    text-align: right;
 }
