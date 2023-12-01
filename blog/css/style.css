@@ -75,7 +75,7 @@ h1 span {
     border-top-left-radius: .45rem;
     border-bottom-right-radius: .45rem;
     box-shadow: .025rem .025rem .025rem #000;
-    font-family:Ultra;
+    font-family:Ultra, serif;
 }
 
 nav {
