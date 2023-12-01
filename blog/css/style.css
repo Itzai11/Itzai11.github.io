@@ -64,7 +64,6 @@ h1 {
     color: #000;
     text-shadow: .05rem .05rem .05rem #000;
     transform: rotate(-4deg);
-    font-family:Ultra;
 }
 
 h1 span {
@@ -77,6 +76,7 @@ h1 span {
     border-top-left-radius: .45rem;
     border-bottom-right-radius: .45rem;
     box-shadow: .05rem .05rem .05rem #000;
+    font-family:Ultra;
 }
 
 nav {
