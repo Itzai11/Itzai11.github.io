@@ -76,7 +76,57 @@ h1 span {
 }
 
 /* Navigation */
+
 nav {
+    nav{
         float: left;
         color: #252752;
+    }
+}
+/* Navigation */
+nav {
+    nav {
+        float: left;
+        color: #252752;
+        
+    }
+}
+/*Main-Section*/
+
+/* Section */
+
+main section {
+    display: flex;
+}
+
+article {
+    width: 75%;
+}
+
+article image {
+
+    float: left;
+    margin: 0 1rem 0 0;
+
+}
+
+/* Subsection */
+
+subsection {
+
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    display: grid;
+}
+
+/* Sidebar */
+
+/* Footer */
+
+footer {
+    margin: 6rem auto .5rem auto;
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(auto);
 }
