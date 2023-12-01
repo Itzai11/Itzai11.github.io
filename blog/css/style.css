@@ -91,7 +91,6 @@ nav {
         
     }
 }
-/*Main-Section*/
 
 /* Section */
 
@@ -108,6 +107,11 @@ article image {
     float: left;
     margin: 0 1rem 0 0;
 
+}
+
+button {
+    background-color:#3474eb ;
+    color: #d7d7db;
 }
 
 /* Subsection */
@@ -129,4 +133,9 @@ footer {
     width: 90%;
     display: grid;
     grid-template-columns: repeat(auto);
+}
+
+footer a {
+    text-align: right;
+
 }
