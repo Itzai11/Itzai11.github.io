@@ -64,13 +64,15 @@ h1 {
     text-align: center;
     color: #000;
     text-shadow: .09375rem .09375rem .09375rem #000;
-    transform: rotate(150deg);
+    transform: rotate(-4deg);
 }
 
 h1 span {
-    color: #aba1a1;
+    color: #f5edeb;
     font-size: 4rem;
     background-color: #692e2e;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 /* Navigation */
