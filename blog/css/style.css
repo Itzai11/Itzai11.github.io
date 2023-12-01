@@ -82,9 +82,9 @@ h1 span {
 nav {
     float: left;
     margin: 0;
-    border:.0115rem solid;
-    border-left: none;
-    border-right: none;
+    border-top: 0.115rem solid;
+    border-top: 0.115rem solid;
+    border-width: 100%;
     padding:1rem;
   }
   
