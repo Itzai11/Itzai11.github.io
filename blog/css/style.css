@@ -70,7 +70,7 @@ h1 {
 
 h1 span {
     color: #f5edeb;
-    font-size: 2rem;
+    font-size: 1rem;
     background-color: #692e2e;
     text-transform: uppercase;
     padding:.25rem .25rem .25rem;
@@ -138,8 +138,8 @@ subsection {
 
     margin-top: 4rem;
     margin-bottom: 2rem;
-    padding: 0;
     display: grid;
+    gap: 3rem;
 }
 
 /* Button */
