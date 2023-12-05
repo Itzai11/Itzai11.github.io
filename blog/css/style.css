@@ -100,6 +100,7 @@ nav {
     color:#000;
     text-transform: uppercase;
     text-decoration:line-through;
+    transform: rotate(4deg);
   }
 
 /* Main Section */
