@@ -48,6 +48,7 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+/* Typography */
 
 @font-face {
     font-family:Ultra; 
@@ -58,6 +59,7 @@
     src: url(../fonts/sans-serif/lato-regular.ttf);
 }
 
+/* Heading 1 */
 h1 {
     font-size: 2rem;
     text-align: center;
@@ -77,6 +79,8 @@ h1 span {
     box-shadow: .05rem .05rem .05rem #000;
     font-family:Ultra, serif;
 }
+
+/* Navigation */
 
 nav {
     float: left;
@@ -98,13 +102,19 @@ nav {
     text-decoration:line-through;
   }
 
+/* Main Section */
+
+main section {
+  display: flex;
+}
+
+/* Heading 2 */
+
 h2 {
     font-size:1.5rem;
 }
 
-main section {
-    display: flex;
-}
+/* Article */
 
 article {
     width: 75%;
@@ -114,8 +124,20 @@ article image {
 
     float: left;
     margin: 0 1rem 0 0;
-
+    
 }
+
+/* Subsection */
+
+subsection {
+
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    padding: 0;
+    display: grid;
+}
+
+/* Button */
 
 button {
     background-color: #252752;
@@ -134,14 +156,10 @@ button a {
     font-weight: bold;
 }
 
-subsection {
+/* Aside */
 
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-    padding: 0;
-    display: grid;
-}
 
+/* Footer */
 
 footer {
     margin: 6rem auto .5rem auto;
