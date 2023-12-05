@@ -114,6 +114,7 @@ main section {
 
 h2 {
     font-size:1.5rem;
+    text-align: left;
 }
 
 /* Article */
@@ -123,10 +124,7 @@ article {
 }
 
 article image {
-
     float: left;
-    margin: 0 1rem 0 0;
-
 }
 
 /* Subsection */
