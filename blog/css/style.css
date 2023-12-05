@@ -110,7 +110,6 @@ main section {
   flex-direction: row;
 }
 
-/* Heading 2 */
 
 h2 {
     font-size:1.5rem;
@@ -121,10 +120,12 @@ h2 {
 
 article {
     width: 75%;
+    float: left;
 }
 
 article image {
     float: left;
+
 }
 
 /* Subsection */
