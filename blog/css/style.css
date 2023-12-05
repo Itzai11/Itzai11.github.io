@@ -106,6 +106,7 @@ nav {
 
 main section {
   display: flex;
+  flex-direction: row;
 }
 
 /* Heading 2 */
@@ -124,7 +125,7 @@ article image {
 
     float: left;
     margin: 0 1rem 0 0;
-    
+
 }
 
 /* Subsection */
