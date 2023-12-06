@@ -165,7 +165,11 @@ aside p{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: .0125rem;
+}
 
+figcaption {
+    background-color: ;
+    font-size: .75rem;
 }
 
 
