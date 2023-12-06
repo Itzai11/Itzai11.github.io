@@ -170,6 +170,7 @@ aside p{
     width: 75%;
     margin-right: 3%;
     padding-right: 3%;
+    float: left;
 }
 
 figcaption {
