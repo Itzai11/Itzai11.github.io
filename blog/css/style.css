@@ -167,9 +167,9 @@ aside p{
     margin-top: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: .0125rem;
     width: 75%;
-    margin: 0 0 0;
+    margin-right: 3%;
+    padding-left: 3%;
 }
 
 figcaption {
@@ -177,6 +177,7 @@ figcaption {
     font-size: .75rem;
     text-align: left;
     margin-bottom: 4rem;
+    padding-bottom: 2rem;
 }
 
 
