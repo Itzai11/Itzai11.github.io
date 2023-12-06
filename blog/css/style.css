@@ -173,15 +173,15 @@ h3 {
     width: 75%;
     margin-right: 3%;
     padding-right: 3%;
-    
+
 }
 
 figcaption {
     background-color:#f5edd7;
     font-size: .75rem;
     text-align: left;
-    margin-bottom: 4rem;
-    padding-bottom: 2rem;
+    margin-bottom: .025rem;
+    padding-bottom: .025rem;
 }
 
 
