@@ -153,10 +153,11 @@ aside p{
 }
 
 .expand {
-    font-size: .15rem;
+    font-size: .25rem;
     word-spacing: .0125rem;
     text-decoration: none;
     word-break: normal;
+    align-content: start;
 
 }
 
@@ -180,8 +181,6 @@ figcaption {
     background-color:#f5edd7;
     font-size: .75rem;
     text-align: left;
-    margin-bottom: .025rem;
-    padding-bottom: .025rem;
 }
 
 
