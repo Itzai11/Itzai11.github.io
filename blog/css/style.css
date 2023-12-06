@@ -145,14 +145,14 @@ aside p{
     border-bottom: .0625rem solid #000;
     margin: auto;
     padding-bottom: 5%;
-    text-align-last: left;
+    
 }
 
 .expand {
     font-size: .15rem;
     word-spacing: .0015rem;
     text-decoration: none;
-    white-space: initial;
+    text-align-last: left;
     
 }
 
