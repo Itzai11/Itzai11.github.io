@@ -164,7 +164,7 @@ aside p{
     margin-top: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-column-gap: .0125rem;
+    grid-column-gap: .00125rem;
 }
 
 figcaption {
