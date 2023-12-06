@@ -112,7 +112,7 @@ nav {
 
 h2 {
     font-size:1.5rem;
-    
+
 }
 
 /* Article */
@@ -155,7 +155,7 @@ aside p{
 
 .expand {
     font-size: .15rem;
-    word-spacing: .0015rem;
+    word-spacing: .0125rem;
     text-decoration: none;
     text-align: end;
 
