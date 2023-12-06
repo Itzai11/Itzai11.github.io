@@ -145,7 +145,7 @@ aside {
 
 aside p{
     padding-top: 4%;
-    font-size: 1rem;
+    font-size: .5rem;
     border-bottom: .0625rem solid #000;
     margin: auto;
     padding-bottom: 6%;
@@ -160,6 +160,9 @@ aside p{
 
 }
 
+h3 {
+    font-size: .5rem;
+}
 
 /* Subsection */
 
@@ -170,7 +173,7 @@ aside p{
     width: 75%;
     margin-right: 3%;
     padding-right: 3%;
-    float: left;
+    
 }
 
 figcaption {
