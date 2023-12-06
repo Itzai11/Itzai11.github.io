@@ -130,13 +130,21 @@ article {
 /* Aside */
 
 aside {
+    display:grid;
     width: 19%;
     clear:both;
     border-left: .0625rem solid #333;
+    margin-left: 3%;
+    padding-left: 3%;
+    grid-template-columns:repeat(auto);
 
 }
 
-aside.expand {
+aside p{
+    font-size: 1rem;
+}
+
+.aside-expand {
     text-align: left;
     word-spacing: .05rem;
     text-decoration: none;
