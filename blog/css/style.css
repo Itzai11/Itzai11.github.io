@@ -152,7 +152,7 @@ aside p{
     font-size: .15rem;
     word-spacing: .0015rem;
     text-decoration: none;
-    text-align-last: left;
+    text-align: end;
 
 }
 
@@ -168,7 +168,7 @@ aside p{
 }
 
 figcaption {
-    background-color:#edd38c;
+    background-color:#f5edd7;
     font-size: .75rem;
     text-align: center;
 }
