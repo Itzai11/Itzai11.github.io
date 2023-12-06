@@ -131,7 +131,8 @@ article {
 
 aside {
     width: 19%;
-    clear:both
+    clear:both;
+    border-left: .0625rem solid #333;
 
 }
 
