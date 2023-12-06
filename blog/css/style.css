@@ -157,7 +157,7 @@ aside p{
     margin-top: 4rem;
     margin-bottom: 2rem;
     display: grid;
-    gap: 4rem;
+    gap: 1rem;
     grid-template-columns: 1fr 1fr 1fr;
 }
 
