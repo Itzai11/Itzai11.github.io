@@ -181,6 +181,7 @@ figcaption {
     background-color:#f5edd7;
     font-size: .75rem;
     text-align: left;
+    line-break: normal;
 }
 
 
