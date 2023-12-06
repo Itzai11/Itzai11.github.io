@@ -146,8 +146,9 @@ aside p{
 
 .expand {
     text-align: left;
-    word-spacing: .05rem;
+    word-spacing: .015rem;
     text-decoration: none;
+    white-space: initial;
 }
 
 
