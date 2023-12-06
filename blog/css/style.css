@@ -141,10 +141,11 @@ aside {
 }
 
 aside p{
+    padding-top: 4%;
     font-size: 1rem;
     border-bottom: .0625rem solid #000;
     margin: auto;
-    padding-bottom: 5%;
+    padding-bottom: 6%;
     
 }
 
@@ -161,7 +162,6 @@ aside p{
 
 .subsection {
     margin-top: 4rem;
-    margin-bottom: 2rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: .0125rem;
