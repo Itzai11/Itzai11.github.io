@@ -135,6 +135,12 @@ aside {
 
 }
 
+aside.expand {
+    text-align: left;
+    word-spacing: .05rem;
+    text-decoration: none;
+}
+
 
 /* Subsection */
 
