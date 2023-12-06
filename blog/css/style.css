@@ -157,7 +157,7 @@ aside p{
     font-size: .15rem;
     word-spacing: .0125rem;
     text-decoration: none;
-    text-align: end;
+    text-align: start;
 
 }
 
@@ -168,9 +168,8 @@ aside p{
     margin-top: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 0;
-    padding: 0;
-    width: 50%;
+    column-gap: 0;
+    width: 75%;
     margin-bottom: 0;
 }
 
