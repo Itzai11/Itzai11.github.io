@@ -83,7 +83,6 @@ h1 span {
 /* Navigation */
 
 nav {
-    float: left;
     margin: 0;
     border-top: .05rem solid;
     border-bottom: .05rem solid;
@@ -100,12 +99,12 @@ nav {
     color:#000;
     text-transform: uppercase;
     text-decoration:line-through;
-    transform: rotate(4deg);
+    text-transform: rotate(4deg);
   }
 
 /* Main Section */
 
-main section {
+.main-section {
   display: flex;
   flex-direction: row;
 }
@@ -123,18 +122,15 @@ article {
     float: left;
 }
 
-article image {
+.article-image {
     float: left;
 
 }
 
-article p{
-    float: right;
-}
 
 /* Subsection */
 
-subsection {
+.subsection {
     margin-top: 4rem;
     margin-bottom: 2rem;
     display: grid;
