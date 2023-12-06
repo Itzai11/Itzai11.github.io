@@ -171,6 +171,7 @@ aside p{
     gap: 0;
     padding: 0;
     width: 50%;
+    margin-bottom: 0;
 }
 
 figcaption {
