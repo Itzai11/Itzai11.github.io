@@ -167,7 +167,7 @@ aside p{
     margin-top: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    column-gap: .025rem;
+    column-gap: .0125rem;
     width: 75%;
     margin: 0 0 0;
 }
