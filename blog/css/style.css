@@ -170,7 +170,7 @@ aside p{
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 0%;
     padding: 0;
-    width: 75%;
+    width: 50%;
 }
 
 figcaption {
