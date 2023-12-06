@@ -177,6 +177,10 @@ h3 {
 
 }
 
+.subsection-image {
+    float: left;
+}
+
 figcaption {
     background-color:#f5edd7;
     font-size: .75rem;
