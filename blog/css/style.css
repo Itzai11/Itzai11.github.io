@@ -143,6 +143,7 @@ aside {
 aside p{
     font-size: 1rem;
     border-bottom: .0625rem solid #000;
+    margin: auto;
 }
 
 .expand {
