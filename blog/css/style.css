@@ -145,7 +145,7 @@ aside {
 
 aside p{
     padding-top: 4%;
-    font-size: .5rem;
+    font-size: .75rem;
     border-bottom: .0625rem solid #000;
     margin: auto;
     padding-bottom: 6%;
@@ -157,7 +157,6 @@ aside p{
     word-spacing: .0125rem;
     text-decoration: none;
     word-break: normal;
-    align-content: start;
 
 }
 
@@ -171,6 +170,7 @@ h3 {
     margin-top: 4rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    grid-column: 0%;
     width: 75%;
     margin-right: 3%;
     padding-right: 3%;
